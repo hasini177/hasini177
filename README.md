@@ -2,7 +2,7 @@
 ## 👨‍💻 About Me
 
 <small>
-Hi! I'm **Hasini Tadikonda**, an **ECE student with a strong interest in Software Engineering**.<br><br>
+Hi! I'm Hasini Tadikonda, an ECE student with a strong interest in Software Engineering.<br><br>
 
 I'm currently focused on building a strong foundation in **Java, Data Structures & Algorithms, SQL, OOP, DBMS, Computer Networks, and Low-Level Design**.<br><br>
 
